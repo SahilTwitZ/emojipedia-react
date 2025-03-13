@@ -1,4 +1,4 @@
-![Emojipedia Screenshot](https://github.com/SahilTwitZ/emojipedia-react/blob/main/screenshot.png)
+![Emojipedia Screenshot](https://github.com/SahilTwitZ/emojipedia-react/blob/main/Screenshot%202025-03-13%20105255.png?raw=true)
 
 ## 📋 Features
 
